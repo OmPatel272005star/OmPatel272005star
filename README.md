@@ -120,7 +120,7 @@ Instant messaging platform with **Socket.io** for bidirectional real-time commun
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🔍 FastJob Platform
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OmPatel272005star)
@@ -130,10 +130,9 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 **Tech:** React • Node.js • Supabase • Fuse.js
 
 </td>
-<td width="100%">
 
 
-</td>
+
 </tr>
 </table>
 
