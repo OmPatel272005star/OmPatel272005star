@@ -3,11 +3,11 @@
 <div align="center">
   
 <!-- Snake eating contributions animation -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmPatel272005star/OmPatel272005star/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmPatel272005star/OmPatel272005star/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OmPatel272005star/OmPatel272005star/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 </div>
 
@@ -22,6 +22,8 @@
 ---
 
 ## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I am a Final-year Information Technology student at IIIT Vadodara with a strong foundation in **full-stack development** and **competitive programming**. My expertise lies in building scalable web applications with modern JavaScript frameworks and solving complex algorithmic problems.
 
@@ -143,8 +145,8 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 
 </div>
 
----
 
+---
 
 ## 🏅 Competitive Programming
 
