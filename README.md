@@ -94,46 +94,33 @@ I am a Final-year Information Technology student at IIIT Vadodara with a strong 
 
 ## 🚀 Featured Projects
 
-
 <div align="center">
-
 <table>
 <tr>
-<td width="50%">
-
-### 🤖 AI SaaS Application
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OmPatel272005star)
-
-Full-stack AI-powered platform with **Google Gemini API** for content generation and **ClickDrop API** for image processing. Features include article generation, blog titles, image manipulation, resume review, and community engagement.
-
-**Tech:** React • Express.js • Clerk • Neon
-
-</td>
-<td width="50%">
-
-### 💬 Real-Time Chat Application
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OmPatel272005star)
-
-Instant messaging platform with **Socket.io** for bidirectional real-time communication. Includes JWT authentication, responsive UI, and scalable architecture for concurrent connections.
-
-**Tech:** React • Node.js • MongoDB • Socket.io
-
+<td width="100%">
+🤖 AI SaaS Application
+Show Image
+Full-stack AI-powered platform with Google Gemini API for content generation and ClickDrop API for image processing. Features include article generation, blog titles, image manipulation, resume review, and community engagement.
+Tech: React • Express.js • Clerk • Neon
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🔍 FastJob Platform
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OmPatel272005star)
-
-Innovative **crowdsourced job aggregation** platform with "give-and-take" architecture. Users contribute by scraping LinkedIn posts locally, creating a **self-scaling ecosystem** with **Fuse.js** semantic search.
-
-**Tech:** React • Node.js • Supabase • Fuse.js
-
+<td width="100%">
+💬 Real-Time Chat Application
+Show Image
+Instant messaging platform with Socket.io for bidirectional real-time communication. Includes JWT authentication, responsive UI, and scalable architecture for concurrent connections.
+Tech: React • Node.js • MongoDB • Socket.io
+</td>
+</tr>
+<tr>
+<td width="100%">
+🔍 FastJob Platform
+Show Image
+Innovative crowdsourced job aggregation platform with "give-and-take" architecture. Users contribute by scraping LinkedIn posts locally, creating a self-scaling ecosystem with Fuse.js semantic search.
+Tech: React • Node.js • Supabase • Fuse.js
 </td>
 </tr>
 </table>
-
 </div>
 
 
