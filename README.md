@@ -94,6 +94,7 @@ I am a Final-year Information Technology student at IIIT Vadodara with a strong 
 
 ## 🚀 Featured Projects
 
+
 <div align="center">
 
 <table>
@@ -120,7 +121,7 @@ Instant messaging platform with **Socket.io** for bidirectional real-time commun
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🔍 FastJob Platform
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/OmPatel272005star)
@@ -130,9 +131,6 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 **Tech:** React • Node.js • Supabase • Fuse.js
 
 </td>
-
-
-
 </tr>
 </table>
 
