@@ -130,14 +130,8 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 **Tech:** React • Node.js • Supabase • Fuse.js
 
 </td>
-<td width="50%">
+<td width="100%">
 
-### 🏆 SIH 2024 - Data Alert System
-[![Certificate](https://img.shields.io/badge/Finalist-FFA116?style=for-the-badge&logo=trophy)](https://github.com/OmPatel272005star)
-
-**Smart India Hackathon 2024 Finalist** project. Built intelligent Data Duplication Alert System for **INCOIS** (Indian National Center for Ocean Information Services) with pattern recognition algorithms.
-
-**Tech:** Data Analysis • Pattern Recognition
 
 </td>
 </tr>
