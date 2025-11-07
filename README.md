@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Om+Patel;Full+Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Om+Patel;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,8 +22,6 @@
 ---
 
 ## 💫 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I am a Final-year Information Technology student at IIIT Vadodara with a strong foundation in **full-stack development** and **competitive programming**. My expertise lies in building scalable web applications with modern JavaScript frameworks and solving complex algorithmic problems.
 
@@ -148,8 +146,6 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 ---
 
 
----
-
 ## 🏅 Competitive Programming
 
 <div align="center">
@@ -166,8 +162,6 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 
 *Consistent problem solver with strong algorithmic foundation*
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/om_patel?theme=dark&font=Fira%20Code&ext=heatmap)
-
 </td>
 <td align="center" width="50%">
 
@@ -177,8 +171,6 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 **Profile:** [om_rajani](https://codeforces.com/profile/om_rajani)
 
 *Active participant in competitive programming contests*
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=om_rajani&theme=dark&force_username=true&border_color=404040)
 
 </td>
 </tr>
@@ -223,14 +215,6 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 
 <div align="center">
   
-### 💭 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### ✍️ Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
 **⭐ If you find my projects interesting, feel free to star them!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OmPatel272005star&color=4F46E5&style=for-the-badge)
