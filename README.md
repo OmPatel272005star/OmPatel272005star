@@ -180,18 +180,8 @@ Innovative **crowdsourced job aggregation** platform with "give-and-take" archit
 
 </div>
 
----
 
-## 🎯 Leadership & Community
 
-<div align="center">
-
-| Organization | Role | Duration | Contributions |
-|:---:|:---:|:---:|:---|
-| **SSIP Cell** | Committee Member | Jan 2024 – Jan 2025 | Organized workshops, coordinated speaker outreach |
-| **Enigma Club** | Committee Member | Jul 2024 – Mar 2025 | Designed interactive challenges, increased membership |
-
-</div>
 
 ---
 
